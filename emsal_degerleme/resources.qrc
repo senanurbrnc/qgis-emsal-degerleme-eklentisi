@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/emsal_degerleme" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
